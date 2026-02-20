@@ -1,0 +1,18 @@
+# Source images and raw downloads
+drive-download-*/
+
+# Test/output directories (binary image artefacts)
+test_out_*/
+test_ellipse_*/
+crumb_results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Common OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
